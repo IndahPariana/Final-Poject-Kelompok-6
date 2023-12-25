@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TopPipe
+comment1.params=location
+comment1.target=TopPipe(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Checks\ if\ the\ pipe\ has\ been\ initialized.\ If\ not,\ then\ sets\ the\ pipe's\ location.\r\n\ Moves\ the\ pipe\ to\ the\ left\ across\ the\ screen\ and\ remove\ it\ just\ when\ it\ exits\ the\ world.\ \r\n
+numComments=3

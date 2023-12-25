@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Timer
+comment1.params=
+comment1.target=Timer()
+comment1.text=\r\n\ Start\ the\ timer\r\n
+comment2.params=
+comment2.target=void\ setNow()
+comment2.text=\r\n\ Reset\ the\ timer\r\n
+comment3.params=
+comment3.target=int\ elapsedTime()
+comment3.text=\r\n\ Return\ the\ amount\ of\ milliseconds\ that\ have\ passed\ since\ the\ last\ set\ point.\r\n
+numComments=4

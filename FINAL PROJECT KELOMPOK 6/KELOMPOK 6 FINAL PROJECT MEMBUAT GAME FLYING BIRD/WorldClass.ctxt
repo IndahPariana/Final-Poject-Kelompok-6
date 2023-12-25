@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=WorldClass
+comment1.params=
+comment1.target=WorldClass()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ newPipe()
+comment4.params=customInterval
+comment4.target=void\ newPipe(int)
+comment5.params=
+comment5.target=void\ score()
+comment6.params=
+comment6.target=void\ lost()
+comment7.params=position
+comment7.target=void\ paint(int)
+comment8.params=width\ height
+comment8.target=greenfoot.GreenfootImage\ getScrollingImage(int,\ int)
+numComments=9

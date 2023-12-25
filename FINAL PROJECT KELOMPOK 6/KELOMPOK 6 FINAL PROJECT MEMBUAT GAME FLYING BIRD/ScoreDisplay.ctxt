@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ScoreDisplay
+comment1.params=
+comment1.target=ScoreDisplay()
+comment1.text=\r\n\ This\ function\ creates\ a\ display\ with\ the\ value\ set\ to\ zero.\r\n
+comment2.params=num
+comment2.target=void\ setToValue(int)
+comment2.text=\r\n\ Sets\ the\ score\ to\ be\ displayed\ on\ the\ screen\ to\ eaqual\ ine\ integer\ passed.\r\n
+comment3.params=num
+comment3.target=void\ add(int)
+comment3.text=\r\n\ Add\ the\ integer\ parameter\ to\ the\ score\ display.\r\n
+comment4.params=
+comment4.target=void\ updateScore()
+comment4.text=\r\n\ Update\ the\ screen\ to\ display\ the\ score.\r\n
+numComments=5
